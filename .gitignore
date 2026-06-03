@@ -1,0 +1,9 @@
+logistic_regression_model.pkl
+knn_model.pkl
+svm_model.pkl
+naive_bayes_model.pkl
+standard_scaler.pkl
+*.pkl
+*.keras
+*.json
+catboost_info/
